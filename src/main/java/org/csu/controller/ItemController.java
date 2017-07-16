@@ -19,6 +19,7 @@ public class ItemController {
                 "\"color\": \"红色,白色,黑色\", " +
                 "\"size\": \"5.5\", " +
                 "\"shopId\": 1, " +
+                "\"cityId\": 1, " +
                 "\"modifiedTime\": \"2017-01-01 12:00:00\"}";
     }
 }
